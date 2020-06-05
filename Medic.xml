@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <name>Hospital</name>
+
+            <medics>
+                <medic department="surgery" position="Doctor" workExperience ="1" surname ="Ivanov" name="Maksim" middlename ="Alexandrovich"/>
+                <medic department="surgery" position="Paramedic" workExperience ="2" surname ="Petrov" name="Vladimir" middlename ="Sergeevich"/>
+                <medic department="surgery" position="Nurse" workExperience ="3" surname ="Kiseleva" name="Elena" middlename ="Ivanovna"/>
+                <medic department="pediatrics" position="Doctor" workExperience ="4" surname ="Kulikova" name="Mariya" middlename ="Alexandrovha"/>
+                <medic department="pediatrics" position="Paramedic" workExperience ="2" surname ="Fadeev" name="Mark" middlename ="Viktorovich"/>
+                <medic department="pediatrics" position="Nurse" workExperience ="5" surname ="Pradun" name="Olga" middlename ="Mihajlovna"/>
+            </medics>
+</company>
